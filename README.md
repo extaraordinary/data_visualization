@@ -7,12 +7,20 @@ Welcome to the Data Visualization repository! This project showcases various plo
 ## Contents
 
 • Jupyter Notebook: data_visualization_notebook.ipynb
+
     - Provides detailed explanations and examples of plotting techniques using Matplotlib, Seaborn, and Plotly.
+
     - Covers basic to advanced visualizations, from line plots and pie charts to heatmaps and interactive dashboards.
+
     - Illustrates how to customize plot features for efficient, professional-looking data visualization.
 
+
 • Data Files: tips.csv, glue.csv, flights.csv, penguins.csv
+
     - Sample datasets from Seaborn for demonstrating various plotting techniques.
 
+
 • Interactive Dashboards
+
     - Basic interactive dashboards for exploring the visualizations in an interactive manner.
+    
