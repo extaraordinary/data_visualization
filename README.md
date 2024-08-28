@@ -23,4 +23,3 @@ Welcome to the Data Visualization repository! This project showcases various plo
 • Interactive Dashboards
 
     - Basic interactive dashboards for exploring the visualizations in an interactive manner.
-    
