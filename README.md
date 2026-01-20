@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project showcases various plotting and data visualization techniques using Matplotlib and Seaborn, two powerful libraries in Python. It includes a Jupyter Notebook that demonstrates how to create effective visualizations and interpret data through different types of plots.
+This project showcases various plotting and data visualization techniques using Matplotlib and Seaborn, two powerful libraries in Python. It includes a Jupyter Notebook that demonstrates how to create effective visualizations and interpret data through different types of plots. 
 
 ## Contents
 
